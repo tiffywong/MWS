@@ -1,4 +1,4 @@
-# FEND Restuarant Review App - Stage 1 (First Part of the MWS)
+# FEND Restaurant Review App - Stage 1 (First Part of the MWS)
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
